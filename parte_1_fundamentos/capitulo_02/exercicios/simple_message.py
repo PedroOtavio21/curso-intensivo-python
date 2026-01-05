@@ -1,0 +1,24 @@
+"""
+2.1 - Mensagem simples: 
+
+Armazene uma mensagem em uma variável e, em
+seguida, exiba essa mensagem.
+"""
+
+message = 'Este é o primeiro exercício em python'
+print(message)
+
+"""
+2.2 - Mensagens simples: 
+
+Armazene uma mensagem em uma variável e, em
+seguida, exiba essa mensagem. Então altere o valor de sua variável para uma
+nova mensagem e mostre essa nova mensagem.
+"""
+
+print('-----------------------')
+message = 'Primeiro conteúdo'
+print(message)
+
+message = 'Conteúdo modificado!'
+print(message)
