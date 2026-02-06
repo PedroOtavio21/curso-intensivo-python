@@ -1,0 +1,5 @@
+olá
+mundo
+sou
+desenvolvedor
+python

@@ -1,0 +1,9 @@
+Em Python podemos exibir conteúdos no terminal
+Em Python podemos realizar operações aritméticas
+Em Python podemos trabalhar com strings
+Em Python podemos ler e manipular listas
+Em Python podemos trabalhar com dicionários
+Em Python podemos trabalhar com blocos de código condicionais
+Em Python podemos criar objetos do mundo real com as Classes
+Em Python podemos facilitar a reutilização de trechos de código com funções
+Em Python podemos trabalhar com arquivos
