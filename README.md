@@ -23,7 +23,7 @@ curso-intensivo-python/
 ├── parte_1_fundamentos/           # Conceitos básicos e lógica de programação
 │   ├── capitulo_01/               # Configuração de ambiente e primeiro código
 │   ├── capitulo_XX/               # (Seguindo a numeração do livro)
-│   │   ├── exemplos/              # Códigos digitados durante a leitura
+│   │   ├── exemplos/              # Códigos digitados durante a leitura (Alguns capítulos podem não ter)
 │   │   ├── exercicios/            # Desafios "Faça você mesmo" (Try It Yourself)
 │   │   └── anotacoes_e_duvidas.md # Resumo do capítulo e pontos de atenção
 │
@@ -42,3 +42,6 @@ curso-intensivo-python/
 - Ambientes: venv (Ambientes virtuais para projetos específicos)
 
 Este diretório é mantido por Pedro Otávio. Se você estiver lendo isso e tiver sugestões, sinta-se à vontade para compartilhar.
+
+Alguns capítulos podem não ter todo o conteúdo abordado do livro (assuntos e exercícios). 
+Resolvi filtrar aquilo que há de ser mais importante nos estudos.
